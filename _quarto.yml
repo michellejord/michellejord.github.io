@@ -37,3 +37,5 @@ format:
     link-external-newwindow: true
     link-external-icon: false
     anchor-sections: false
+    include-in-header:
+      - _head.html
