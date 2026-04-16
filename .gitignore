@@ -5,3 +5,6 @@ _freeze/
 *.log
 .Rproj.user/
 .Rhistory
+
+/.quarto/
+**/*.quarto_ipynb

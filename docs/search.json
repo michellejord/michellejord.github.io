@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A full PDF is available here: Download CV."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nSciences Po, Paris — MRes in Economics · 2024–2026 (expected)\nRelevant coursework: PhD-level Microeconomics, Macroeconomics, Econometrics.\nTrinity College Dublin — B.A. (Hons.) Economics and Social Studies · 2020–2024\nFirst Class Honours (1.1)."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research experience",
+    "text": "Research experience\nESRI Working Paper (co-author) — October 2025\nAn Industry-Level Measure of Quality-Adjusted Human Capital in the European Union\nWith Juan Durán Vanegas and Iulia Siedschlag.\nUndergraduate Thesis — April 2024\nThe Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin’s Luas Cross City Project. Supervisor: Ronan Lyons. Grade: 1.1."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional experience",
+    "text": "Professional experience\nEconomic and Social Research Institute (ESRI), Dublin\nEconomic Analysis Intern — Trade, Competitiveness and FDI · Jun 2025 – Aug 2025\nSusquehanna International Group, Dublin\nEquity Research Intern · Jun 2023 – Sep 2023"
+  },
+  {
+    "objectID": "cv.html#programming-and-software",
+    "href": "cv.html#programming-and-software",
+    "title": "CV",
+    "section": "Programming and software",
+    "text": "Programming and software\n\nR — advanced (data cleaning, validation, applied econometrics)\nJulia — intermediate (computational macro, dynamic programming, heterogeneous-agent models)\nArcGIS — intermediate (spatial analysis; georeferencing historical map images)\nLaTeX — advanced"
+  },
+  {
+    "objectID": "cv.html#methods",
+    "href": "cv.html#methods",
+    "title": "CV",
+    "section": "Methods",
+    "text": "Methods\nHedonic pricing; DiD / event study (including continuous treatment); IV / 2SLS; dataset construction and validation (web scraping, record linkage); text-as-data design (OCR / NLP)."
+  },
+  {
+    "objectID": "cv.html#additional",
+    "href": "cv.html#additional",
+    "title": "CV",
+    "section": "Additional",
+    "text": "Additional\n\nLanguages: English (native), French (C1)\nLeadership: Class Representative, MRes Economics (2025–2026), Sciences Po; Treasurer, Junior Diplomat Initiative (France branch), 2022–2023\nCitizenship: Irish (right to work in the UK and EU)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "With Juan Durán Vanegas and Iulia Siedschlag. ESRI Working Paper, October 2025.\n[Link]\nWe construct a novel quality-adjusted human capital (QAHC) measure at the industry level for the European Union. The measure combines education quality — from PISA (together with historical test-score series) and PIAAC — with education quantity (mean years of schooling), and maps these to industry-level employment composition using EU KLEMS and INTANProd. Through cohort harmonisation and transparent handling of missingness, we build an analysis-ready panel that is fully documented for replication.\n\n\n\n\nUndergraduate thesis, Trinity College Dublin, April 2024. Supervisor: Ronan Lyons.\n[Link]\nI estimate the capitalisation of the 2017 Luas Cross City extension into residential property prices in North Inner City Dublin. Starting from a Dublin sales dataset of 44,894 transactions scraped from Daft.ie — cleaned, de-duplicated, geocoded via the Google Geocoding API, and assigned to small-area geographies — I engineer treatment exposure using Euclidean distance to new Luas stops and implement hedonic, difference-in-differences, and instrumental variables designs. Post-opening, I estimate a 5.78% price premium within 1,000m (DiD) and 13.1% at 400–800m (IV), consistent with a non-linear distance gradient."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "With Juan Durán Vanegas and Iulia Siedschlag. ESRI Working Paper, October 2025.\n[Link]\nWe construct a novel quality-adjusted human capital (QAHC) measure at the industry level for the European Union. The measure combines education quality — from PISA (together with historical test-score series) and PIAAC — with education quantity (mean years of schooling), and maps these to industry-level employment composition using EU KLEMS and INTANProd. Through cohort harmonisation and transparent handling of missingness, we build an analysis-ready panel that is fully documented for replication.\n\n\n\n\nUndergraduate thesis, Trinity College Dublin, April 2024. Supervisor: Ronan Lyons.\n[Link]\nI estimate the capitalisation of the 2017 Luas Cross City extension into residential property prices in North Inner City Dublin. Starting from a Dublin sales dataset of 44,894 transactions scraped from Daft.ie — cleaned, de-duplicated, geocoded via the Google Geocoding API, and assigned to small-area geographies — I engineer treatment exposure using Euclidean distance to new Luas stops and implement hedonic, difference-in-differences, and instrumental variables designs. Post-opening, I estimate a 5.78% price premium within 1,000m (DiD) and 13.1% at 400–800m (IV), consistent with a non-linear distance gradient."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in progress",
+    "text": "Works in progress\nMore to come."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michelle Alicia Jordan",
+    "section": "",
+    "text": "I am an economist working in applied microeconometrics, with experience building and validating datasets for policy-relevant empirical work. I am comfortable presenting results to both technical and non-technical audiences.\nI am currently completing an MRes in Economics at Sciences Po, Paris, following a B.A. (Hons.) in Economics and Social Studies at Trinity College Dublin."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Michelle Alicia Jordan",
+    "section": "Research interests",
+    "text": "Research interests\n\nPolitical economy\nHousing markets and local governance\nWealth and spatial inequality\nTax-benefit policy and distributional analysis"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Michelle Alicia Jordan",
+    "section": "Contact",
+    "text": "Contact\nThe best way to reach me is by email at michellejord01@gmail.com."
+  }
+]
