@@ -21,7 +21,7 @@ about:
       href: "files/Jordan_CV.pdf"
 ---
 
-My research is in public and urban economics, with a focus on policies whose effects are heterogeneous across space and along the income and wealth distribution. I work on the design and incidence of housing subsidies, the capitalisation of transport infrastructure into local markets, and the distributional consequences of tax-benefit instruments, using applied microeconometric methods with administrative and transaction-level data.
+My research is in public and urban economics, with a focus on policies whose effects are heterogeneous across space and along the income and wealth distribution. Recurring themes in my work include housing and transport policy, the design and incidence of tax-benefit instruments, and the interaction between public interventions and local markets. I work in applied microeconometrics, primarily with administrative and transaction-level data.
 
 I am currently completing an MRes in Economics at [Sciences Po, Paris](https://www.sciencespo.fr/ecole-recherche/en.html), following a B.A. (Hons.) in Economics and Social Studies at [Trinity College Dublin](https://www.tcd.ie/). From summer 2026, I will be a Research Economist at [Centax](https://centax.org.uk/) in London.
 
