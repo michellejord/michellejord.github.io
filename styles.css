@@ -96,31 +96,40 @@ hr {
 }
 
 /* ---- Home page: pink block behind the photo column only ---- */
-/* The pseudo-element is anchored to the right edge of the photo column
-   (.about-entity), so pink stops at the column boundary — not at viewport
-   center — no matter how wide the screen is. */
+/* The pink is a pseudo-element on <body> with top:0 / bottom:0 — so it
+   spans exactly the body's natural height (nav + main + footer). No
+   artificial extension → no empty scroll area. */
 body:has(.quarto-about-trestles) {
-  overflow-x: hidden;
-}
-.quarto-about-trestles .about-entity {
   position: relative;
-  padding: 2rem 1.5rem;
-  text-align: center;
+  isolation: isolate;     /* own stacking context so z-index: -1 stays inside body */
+  overflow-x: hidden;     /* clip the pink's left overflow on narrow viewports */
 }
-.quarto-about-trestles .about-entity::before {
+body:has(.quarto-about-trestles)::before {
   content: "";
   position: absolute;
-  top: -8rem;
-  bottom: -200rem;   /* extends well past the bottom of any reasonable page */
-  right: 0;          /* <-- right edge of the photo column = the vertical line */
-  left: -100vw;      /* <-- runs out to the viewport's left edge */
+  top: 0;
+  bottom: 0;
+  left: 0;
+  /* Width ends exactly at the photo-column's right edge.
+     - On viewports >= 820px (main.content capped at 820px, centered):
+         column_boundary = (viewport − 820) / 2 + 0.35 × 820
+                         = 50vw − 123px
+     - On narrower viewports (main.content fills the viewport):
+         column_boundary = 0.35 × 100vw = 35vw
+     max() picks whichever is correct for the current viewport. */
+  width: max(35vw, calc(50vw - 123px));
   background-color: var(--mj-accent-soft);
   z-index: -1;
   pointer-events: none;
 }
-.quarto-about-trestles .about-entity > * {
+
+/* Pin the photo column to 35% so the pink-width formula above stays exact */
+.quarto-about-trestles .about-entity {
   position: relative;
-  z-index: 1;
+  flex: 0 0 35%;
+  max-width: 35%;
+  padding: 2rem 1.5rem;
+  text-align: center;
 }
 .quarto-about-trestles .about-entity img.about-image {
   box-shadow: 0 4px 18px rgba(166, 102, 119, 0.18);
@@ -137,10 +146,12 @@ body:has(.quarto-about-trestles) {
 }
 
 @media (max-width: 768px) {
-  .quarto-about-trestles .about-entity::before {
+  body:has(.quarto-about-trestles)::before {
     display: none;
   }
   .quarto-about-trestles .about-entity {
+    flex: none;
+    max-width: none;
     background-color: var(--mj-accent-soft);
     padding: 2rem 1rem;
     border-radius: 10px;
