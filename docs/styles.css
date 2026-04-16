@@ -95,19 +95,28 @@ hr {
   border-color: var(--mj-accent-dark);
 }
 
-/* ---- Home page: full-height split — pink left half, white right half ---- */
-/* The :has() selector scopes this to the homepage only (only index.qmd uses trestles). */
-html:has(.quarto-about-trestles),
+/* ---- Home page: full-height pink left half ---- */
+/* Scoped with :has() so it only applies to the home page (only index.qmd uses trestles). */
 body:has(.quarto-about-trestles) {
-  background: linear-gradient(
-    to right,
-    var(--mj-accent-soft) 0,
-    var(--mj-accent-soft) 50%,
-    #ffffff 50%,
-    #ffffff 100%
-  );
-  background-attachment: fixed;
   overflow-x: hidden;
+}
+/* A fixed-position rectangle covering exactly the left half of the viewport.
+   Pixel-precise, no browser quirks with gradient stops. */
+body:has(.quarto-about-trestles)::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50vw;
+  height: 100vh;
+  background-color: var(--mj-accent-soft);
+  z-index: 0;
+  pointer-events: none;
+}
+/* Lift all page content above the pink layer */
+body:has(.quarto-about-trestles) > * {
+  position: relative;
+  z-index: 1;
 }
 
 /* Break the trestles section out of the 820px main-content cap and
@@ -147,11 +156,19 @@ body:has(.quarto-about-trestles) {
 /* On narrow screens the trestles stacks vertically — drop the split
    and show a rounded pink card around the profile block instead */
 @media (max-width: 768px) {
-  html:has(.quarto-about-trestles),
-  body:has(.quarto-about-trestles) {
-    background: #ffffff;
+  body:has(.quarto-about-trestles)::before {
+    display: none;
   }
   .quarto-about-trestles {
+    width: auto;
+    margin-left: 0;
+    display: block;
+    padding: 1rem 0;
+  }
+  .quarto-about-trestles .about-entity,
+  .quarto-about-trestles .about-contents {
+    flex: none;
+    max-width: none;
     padding: 1rem 0;
   }
   .quarto-about-trestles .about-entity {
