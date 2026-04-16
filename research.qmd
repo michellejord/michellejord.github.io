@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Working papers
+
+### An Industry-Level Measure of Quality-Adjusted Human Capital in the European Union
+
+*With [Juan Durán Vanegas]() and [Iulia Siedschlag](). ESRI Working Paper, October 2025.* \
+[[Link]](#){.btn .btn-sm .btn-outline-secondary}
+
+We construct a novel quality-adjusted human capital (QAHC) measure at the industry level for the European Union. The measure combines education quality — from PISA (together with historical test-score series) and PIAAC — with education quantity (mean years of schooling), and maps these to industry-level employment composition using EU KLEMS and INTANProd. Through cohort harmonisation and transparent handling of missingness, we build an analysis-ready panel that is fully documented for replication.
+
+---
+
+### The Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin's Luas Cross City Project
+
+*Undergraduate thesis, Trinity College Dublin, April 2024. Supervisor: Ronan Lyons.* \
+[[Link]](#){.btn .btn-sm .btn-outline-secondary}
+
+I estimate the capitalisation of the 2017 Luas Cross City extension into residential property prices in North Inner City Dublin. Starting from a Dublin sales dataset of 44,894 transactions scraped from Daft.ie — cleaned, de-duplicated, geocoded via the Google Geocoding API, and assigned to small-area geographies — I engineer treatment exposure using Euclidean distance to new Luas stops and implement hedonic, difference-in-differences, and instrumental variables designs. Post-opening, I estimate a 5.78% price premium within 1,000m (DiD) and 13.1% at 400–800m (IV), consistent with a non-linear distance gradient.
+
+## Works in progress
+
+More to come.

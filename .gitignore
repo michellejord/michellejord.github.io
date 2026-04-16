@@ -1,0 +1,7 @@
+.quarto/
+.DS_Store
+_site/
+_freeze/
+*.log
+.Rproj.user/
+.Rhistory

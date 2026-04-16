@@ -1,0 +1,34 @@
+---
+title: "Michelle Alicia Jordan"
+pagetitle: "Michelle Alicia Jordan"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:michellejord01@gmail.com"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/michellejord"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/michellealiciajordan"
+    - icon: file-earmark-pdf
+      text: CV
+      href: "files/CV_MichelleAliciaJordan.pdf"
+---
+
+I am an economist working in applied microeconometrics, with experience building and validating datasets for policy-relevant empirical work. I am comfortable presenting results to both technical and non-technical audiences.
+
+I am currently completing an MRes in Economics at [Sciences Po, Paris](https://www.sciencespo.fr/ecole-recherche/en.html), following a B.A. (Hons.) in Economics and Social Studies at [Trinity College Dublin](https://www.tcd.ie/).
+
+## Research interests
+
+- Political economy
+- Housing markets and local governance
+- Wealth and spatial inequality
+- Tax-benefit policy and distributional analysis
+
+## Contact
+
+The best way to reach me is by email at [michellejord01@gmail.com](mailto:michellejord01@gmail.com).

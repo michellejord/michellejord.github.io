@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michelle Alicia Jordan"
+  description: "Personal website of Michelle Alicia Jordan — economist at Sciences Po, Paris."
+  site-url: "https://michellejord.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:michellejord01@gmail.com"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/michellejord"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/michellealiciajordan"
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Michelle Alicia Jordan"
+    right: "Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    link-external-icon: false
+    anchor-sections: false

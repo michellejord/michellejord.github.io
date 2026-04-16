@@ -1,0 +1,96 @@
+/* Muted pink accent palette */
+:root {
+  --mj-accent: #c78a96;
+  --mj-accent-dark: #a66677;
+  --mj-accent-soft: #f3e3e7;
+  --mj-ink: #2a2a2a;
+  --mj-muted: #6b6b6b;
+}
+
+body {
+  color: var(--mj-ink);
+  font-feature-settings: "kern", "liga", "onum";
+}
+
+/* Links */
+a {
+  color: var(--mj-accent-dark);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--mj-accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid var(--mj-accent-soft);
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--mj-ink) !important;
+  font-weight: 500;
+}
+.navbar .nav-link:hover {
+  color: var(--mj-accent-dark) !important;
+}
+
+/* Headings — tighter letter-spacing for academic feel */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+  color: var(--mj-ink);
+}
+h2 {
+  border-bottom: 1px solid var(--mj-accent-soft);
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+h3 {
+  margin-top: 1.5rem;
+}
+
+/* Content width */
+main.content {
+  max-width: 820px;
+}
+
+/* About-page "trestles" tweaks */
+.about-entity .about-links .about-link {
+  color: var(--mj-ink);
+  border: 1px solid var(--mj-accent-soft);
+  border-radius: 4px;
+  padding: 0.35rem 0.75rem;
+  transition: background-color 0.15s ease;
+}
+.about-entity .about-links .about-link:hover {
+  background-color: var(--mj-accent-soft);
+  text-decoration: none;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid var(--mj-accent-soft);
+  color: var(--mj-muted);
+  font-size: 0.9rem;
+}
+
+/* Paper entries on research page */
+hr {
+  border: none;
+  border-top: 1px solid var(--mj-accent-soft);
+  margin: 2rem 0;
+}
+
+/* Small pill buttons for paper links */
+.btn-outline-secondary {
+  color: var(--mj-accent-dark);
+  border-color: var(--mj-accent);
+}
+.btn-outline-secondary:hover {
+  background-color: var(--mj-accent-soft);
+  color: var(--mj-accent-dark);
+  border-color: var(--mj-accent-dark);
+}

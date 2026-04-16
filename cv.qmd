@@ -1,0 +1,47 @@
+---
+title: "CV"
+---
+
+A full PDF is available here: [**Download CV**](files/CV_MichelleAliciaJordan.pdf).
+
+## Education
+
+**Sciences Po, Paris** — *MRes in Economics* · 2024–2026 (expected) \
+Relevant coursework: PhD-level Microeconomics, Macroeconomics, Econometrics.
+
+**Trinity College Dublin** — *B.A. (Hons.) Economics and Social Studies* · 2020–2024 \
+First Class Honours (1.1).
+
+## Research experience
+
+**ESRI Working Paper (co-author)** — October 2025 \
+*An Industry-Level Measure of Quality-Adjusted Human Capital in the European Union* \
+With Juan Durán Vanegas and Iulia Siedschlag.
+
+**Undergraduate Thesis** — April 2024 \
+*The Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin's Luas Cross City Project.* Supervisor: Ronan Lyons. Grade: 1.1.
+
+## Professional experience
+
+**Economic and Social Research Institute (ESRI)**, Dublin \
+*Economic Analysis Intern — Trade, Competitiveness and FDI* · Jun 2025 – Aug 2025
+
+**Susquehanna International Group**, Dublin \
+*Equity Research Intern* · Jun 2023 – Sep 2023
+
+## Programming and software
+
+- **R** — advanced (data cleaning, validation, applied econometrics)
+- **Julia** — intermediate (computational macro, dynamic programming, heterogeneous-agent models)
+- **ArcGIS** — intermediate (spatial analysis; georeferencing historical map images)
+- **LaTeX** — advanced
+
+## Methods
+
+Hedonic pricing; DiD / event study (including continuous treatment); IV / 2SLS; dataset construction and validation (web scraping, record linkage); text-as-data design (OCR / NLP).
+
+## Additional
+
+- **Languages:** English (native), French (C1)
+- **Leadership:** Class Representative, MRes Economics (2025–2026), Sciences Po; Treasurer, Junior Diplomat Initiative (France branch), 2022–2023
+- **Citizenship:** Irish (right to work in the UK and EU)
