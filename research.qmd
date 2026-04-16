@@ -25,6 +25,6 @@ This dissertation investigates the capitalisation of light rail transit (LRT) ac
 
 ### Behavioural Responses to Housing Subsidies: Evidence from Ireland's Help to Buy Scheme
 
-*MRes thesis, Sciences Po, 2026 (in progress).*
+*MRes thesis, Sciences Po, 2026 (in progress). Supervisor: Antoine Ferey.*
 
 This paper studies how a targeted housing subsidy jointly distorts transaction values at an eligibility threshold and reshapes the composition of buyers within the treated segment. In the setting of Ireland's Help to Buy scheme, a tax-based subsidy for first-time buyers of new-build dwellings at or below €500,000 that was introduced at 5% in 2017 and enhanced to 10% in 2020, I develop a developer-side notch model linking the two margins and combine it with bunching estimation and distributional and buyer-participation difference-in-differences designs, using Property Price Register data and administrative records of household purchases. I find clear excess mass just below the €500,000 threshold in the treated market under both regimes, implying a transaction-value response of roughly one-third of the maximum statutory relief, together with a pronounced shift of first-time buyer purchases towards new-builds; both margins approximately double when the marginal subsidy rate rises from 5% to 10%. The results point to an unavoidable trade-off in subsidy targeting: the design choices that direct support towards intended buyers also concentrate behavioural distortion at the eligibility boundary, and both effects intensify with subsidy generosity.
