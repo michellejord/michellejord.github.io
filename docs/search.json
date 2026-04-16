@@ -28,18 +28,18 @@
     "text": "Professional experience\nEconomic and Social Research Institute (ESRI), Dublin\nEconomic Analysis Intern, Trade, Competitiveness and FDI · Jun 2025 to Aug 2025\nSusquehanna International Group, Dublin\nEquity Research Intern · Jun 2023 to Sep 2023"
   },
   {
-    "objectID": "cv.html#programming-and-software",
-    "href": "cv.html#programming-and-software",
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
     "title": "CV",
-    "section": "Programming and software",
-    "text": "Programming and software\n\nR: advanced (data cleaning, validation, applied econometrics)\nJulia: intermediate (computational macro, dynamic programming, heterogeneous-agent models)\nArcGIS: intermediate (spatial analysis; georeferencing historical map images)\nLaTeX: advanced"
+    "section": "Technical skills",
+    "text": "Technical skills\nProgramming: R (primary), Julia.\nTypesetting: LaTeX.\nGeospatial: ArcGIS."
   },
   {
-    "objectID": "cv.html#methods",
-    "href": "cv.html#methods",
+    "objectID": "cv.html#empirical-methods",
+    "href": "cv.html#empirical-methods",
     "title": "CV",
-    "section": "Methods",
-    "text": "Methods\nHedonic pricing; DiD / event study (including continuous treatment); IV / 2SLS; dataset construction and validation (web scraping, record linkage); text-as-data design (OCR / NLP)."
+    "section": "Empirical methods",
+    "text": "Empirical methods\nQuasi-experimental identification: difference-in-differences and event-study designs, with continuous as well as binary treatment; instrumental variables and two-stage least squares; bunching estimation at policy notches. Hedonic pricing for housing markets. Dataset construction and validation, including web scraping, record linkage, and geocoding. Text as data, including optical character recognition and natural-language processing."
   },
   {
     "objectID": "cv.html#additional",

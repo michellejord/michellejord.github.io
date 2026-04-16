@@ -32,16 +32,15 @@ With Juan Durán Vanegas and Iulia Siedschlag.
 **Susquehanna International Group**, Dublin \
 *Equity Research Intern* · Jun 2023 to Sep 2023
 
-## Programming and software
+## Technical skills
 
-- **R**: advanced (data cleaning, validation, applied econometrics)
-- **Julia**: intermediate (computational macro, dynamic programming, heterogeneous-agent models)
-- **ArcGIS**: intermediate (spatial analysis; georeferencing historical map images)
-- **LaTeX**: advanced
+**Programming:** R (primary), Julia. \
+**Typesetting:** LaTeX. \
+**Geospatial:** ArcGIS.
 
-## Methods
+## Empirical methods
 
-Hedonic pricing; DiD / event study (including continuous treatment); IV / 2SLS; dataset construction and validation (web scraping, record linkage); text-as-data design (OCR / NLP).
+Quasi-experimental identification: difference-in-differences and event-study designs, with continuous as well as binary treatment; instrumental variables and two-stage least squares; bunching estimation at policy notches. Hedonic pricing for housing markets. Dataset construction and validation, including web scraping, record linkage, and geocoding. Text as data, including optical character recognition and natural-language processing.
 
 ## Additional
 
