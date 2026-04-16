@@ -18,7 +18,7 @@ about:
       href: "https://www.linkedin.com/in/michellealiciajordan"
     - icon: file-earmark-pdf
       text: CV
-      href: "files/CV_MichelleAliciaJordan.pdf"
+      href: "files/Jordan_CV.pdf"
 ---
 
 I am an economist working in applied microeconometrics, with experience building and validating datasets for policy-relevant empirical work. I am comfortable presenting results to both technical and non-technical audiences.
