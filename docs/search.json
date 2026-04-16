@@ -11,28 +11,28 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nSciences Po, Paris — MRes in Economics · 2024–2026 (expected)\nRelevant coursework: PhD-level Microeconomics, Macroeconomics, Econometrics.\nTrinity College Dublin — B.A. (Hons.) Economics and Social Studies · 2020–2024\nFirst Class Honours (1.1)."
+    "text": "Education\nSciences Po, Paris, MRes in Economics · 2024–2026 (expected)\nRelevant coursework: PhD-level Microeconomics, Macroeconomics, Econometrics.\nTrinity College Dublin, B.A. (Hons.) Economics and Social Studies · 2020–2024\nFirst Class Honours (1.1)."
   },
   {
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "CV",
     "section": "Research experience",
-    "text": "Research experience\nESRI Working Paper (co-author) — October 2025\nAn Industry-Level Measure of Quality-Adjusted Human Capital in the European Union\nWith Juan Durán Vanegas and Iulia Siedschlag.\nUndergraduate Thesis — April 2024\nThe Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin’s Luas Cross City Project. Supervisor: Ronan Lyons. Grade: 1.1."
+    "text": "Research experience\nESRI Working Paper (co-author), October 2025\nAn Industry-Level Measure of Quality-Adjusted Human Capital in the European Union\nWith Juan Durán Vanegas and Iulia Siedschlag.\nUndergraduate Thesis, April 2024\nThe Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin’s Luas Cross City Project. Supervisor: Ronan Lyons. Grade: 1.1."
   },
   {
     "objectID": "cv.html#professional-experience",
     "href": "cv.html#professional-experience",
     "title": "CV",
     "section": "Professional experience",
-    "text": "Professional experience\nEconomic and Social Research Institute (ESRI), Dublin\nEconomic Analysis Intern — Trade, Competitiveness and FDI · Jun 2025 – Aug 2025\nSusquehanna International Group, Dublin\nEquity Research Intern · Jun 2023 – Sep 2023"
+    "text": "Professional experience\nEconomic and Social Research Institute (ESRI), Dublin\nEconomic Analysis Intern, Trade, Competitiveness and FDI · Jun 2025 to Aug 2025\nSusquehanna International Group, Dublin\nEquity Research Intern · Jun 2023 to Sep 2023"
   },
   {
     "objectID": "cv.html#programming-and-software",
     "href": "cv.html#programming-and-software",
     "title": "CV",
     "section": "Programming and software",
-    "text": "Programming and software\n\nR — advanced (data cleaning, validation, applied econometrics)\nJulia — intermediate (computational macro, dynamic programming, heterogeneous-agent models)\nArcGIS — intermediate (spatial analysis; georeferencing historical map images)\nLaTeX — advanced"
+    "text": "Programming and software\n\nR: advanced (data cleaning, validation, applied econometrics)\nJulia: intermediate (computational macro, dynamic programming, heterogeneous-agent models)\nArcGIS: intermediate (spatial analysis; georeferencing historical map images)\nLaTeX: advanced"
   },
   {
     "objectID": "cv.html#methods",
@@ -74,7 +74,7 @@
     "href": "research.html#works-in-progress",
     "title": "Research",
     "section": "Works in progress",
-    "text": "Works in progress\n\nBehavioural Responses to Housing Subsidies: Evidence from Ireland’s Help to Buy Scheme\nMRes thesis, Sciences Po, 2026 (in progress).\nThis paper studies how a targeted housing subsidy jointly distorts transaction values at an eligibility threshold and reshapes the composition of buyers within the treated segment. In the setting of Ireland’s Help to Buy scheme — a tax-based subsidy for first-time buyers of new-build dwellings at or below €500,000, introduced at 5% in 2017 and enhanced to 10% in 2020 — I develop a developer-side notch model linking the two margins and combine it with bunching estimation and distributional and buyer-participation difference-in-differences designs, using Property Price Register data and administrative records of household purchases. I find clear excess mass just below the €500,000 threshold in the treated market under both regimes, implying a transaction-value response of roughly one-third of the maximum statutory relief, together with a pronounced shift of first-time buyer purchases towards new-builds; both margins approximately double when the marginal subsidy rate rises from 5% to 10%. The results point to an unavoidable trade-off in subsidy targeting: the design choices that direct support towards intended buyers also concentrate behavioural distortion at the eligibility boundary, and both effects intensify with subsidy generosity."
+    "text": "Works in progress\n\nBehavioural Responses to Housing Subsidies: Evidence from Ireland’s Help to Buy Scheme\nMRes thesis, Sciences Po, 2026 (in progress).\nThis paper studies how a targeted housing subsidy jointly distorts transaction values at an eligibility threshold and reshapes the composition of buyers within the treated segment. In the setting of Ireland’s Help to Buy scheme, a tax-based subsidy for first-time buyers of new-build dwellings at or below €500,000 that was introduced at 5% in 2017 and enhanced to 10% in 2020, I develop a developer-side notch model linking the two margins and combine it with bunching estimation and distributional and buyer-participation difference-in-differences designs, using Property Price Register data and administrative records of household purchases. I find clear excess mass just below the €500,000 threshold in the treated market under both regimes, implying a transaction-value response of roughly one-third of the maximum statutory relief, together with a pronounced shift of first-time buyer purchases towards new-builds; both margins approximately double when the marginal subsidy rate rises from 5% to 10%. The results point to an unavoidable trade-off in subsidy targeting: the design choices that direct support towards intended buyers also concentrate behavioural distortion at the eligibility boundary, and both effects intensify with subsidy generosity."
   },
   {
     "objectID": "index.html",
