@@ -94,3 +94,60 @@ hr {
   color: var(--mj-accent-dark);
   border-color: var(--mj-accent-dark);
 }
+
+/* ---- Home page: pink left panel ---- */
+/* Desktop: full-bleed pink background behind the profile column */
+.quarto-about-trestles {
+  position: relative;
+  padding: 2.5rem 0;
+  gap: 2.5rem;
+}
+.quarto-about-trestles::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  /* extend from viewport left edge to roughly 40% into the content column */
+  left: calc(50% - 50vw);
+  width: calc(50vw - 8%);
+  background-color: var(--mj-accent-soft);
+  z-index: 0;
+}
+.quarto-about-trestles > * {
+  position: relative;
+  z-index: 1;
+}
+.quarto-about-trestles .about-entity {
+  padding: 1rem 1.5rem;
+  text-align: center;
+}
+.quarto-about-trestles .about-entity img.about-image {
+  box-shadow: 0 4px 18px rgba(166, 102, 119, 0.18);
+}
+/* Inside the pink panel, make the link chips white so they pop */
+.quarto-about-trestles .about-entity .about-link {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.quarto-about-trestles .about-entity .about-link:hover {
+  background-color: var(--mj-accent);
+  border-color: var(--mj-accent);
+  color: #ffffff;
+}
+
+/* Narrow screens: trestles stacks vertically — drop the full-bleed and
+   just make the profile block a rounded pink card */
+@media (max-width: 768px) {
+  .quarto-about-trestles {
+    padding: 1rem 0;
+  }
+  .quarto-about-trestles::before {
+    display: none;
+  }
+  .quarto-about-trestles .about-entity {
+    background-color: var(--mj-accent-soft);
+    padding: 2rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  }
+}
