@@ -94,3 +94,56 @@ hr {
   color: var(--mj-accent-dark);
   border-color: var(--mj-accent-dark);
 }
+
+/* ---- Home page: pink block behind the photo column only ---- */
+/* The pseudo-element is anchored to the right edge of the photo column
+   (.about-entity), so pink stops at the column boundary — not at viewport
+   center — no matter how wide the screen is. */
+body:has(.quarto-about-trestles) {
+  overflow-x: hidden;
+}
+.quarto-about-trestles .about-entity {
+  position: relative;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+.quarto-about-trestles .about-entity::before {
+  content: "";
+  position: absolute;
+  top: -8rem;
+  bottom: -200rem;   /* extends well past the bottom of any reasonable page */
+  right: 0;          /* <-- right edge of the photo column = the vertical line */
+  left: -100vw;      /* <-- runs out to the viewport's left edge */
+  background-color: var(--mj-accent-soft);
+  z-index: -1;
+  pointer-events: none;
+}
+.quarto-about-trestles .about-entity > * {
+  position: relative;
+  z-index: 1;
+}
+.quarto-about-trestles .about-entity img.about-image {
+  box-shadow: 0 4px 18px rgba(166, 102, 119, 0.18);
+}
+/* White chips on the pink background */
+.quarto-about-trestles .about-entity .about-link {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.quarto-about-trestles .about-entity .about-link:hover {
+  background-color: var(--mj-accent);
+  border-color: var(--mj-accent);
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .quarto-about-trestles .about-entity::before {
+    display: none;
+  }
+  .quarto-about-trestles .about-entity {
+    background-color: var(--mj-accent-soft);
+    padding: 2rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  }
+}
