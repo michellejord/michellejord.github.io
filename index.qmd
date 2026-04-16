@@ -21,9 +21,9 @@ about:
       href: "files/Jordan_CV.pdf"
 ---
 
-I am an economist working in applied microeconometrics, with experience building and validating datasets for policy-relevant empirical work. I am comfortable presenting results to both technical and non-technical audiences.
+My research lies in applied microeconometrics, with a focus on policy-relevant empirical questions in public and urban economics. I work primarily with administrative and transaction-level data, constructing and validating datasets to support quasi-experimental identification strategies, including bunching estimation, difference-in-differences, and instrumental-variables designs.
 
-I am currently completing an MRes in Economics at [Sciences Po, Paris](https://www.sciencespo.fr/ecole-recherche/en.html), following a B.A. (Hons.) in Economics and Social Studies at [Trinity College Dublin](https://www.tcd.ie/).
+I am currently completing an MRes in Economics at [Sciences Po, Paris](https://www.sciencespo.fr/ecole-recherche/en.html), following a B.A. (Hons.) in Economics and Social Studies at [Trinity College Dublin](https://www.tcd.ie/). From summer 2026, I will be a Research Economist at [Centax](https://centax.org.uk/) in London.
 
 ## Research interests
 
