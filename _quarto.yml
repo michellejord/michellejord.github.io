@@ -6,7 +6,7 @@ website:
   title: "Michelle Alicia Jordan"
   description: "Personal website of Michelle Alicia Jordan, economist at Sciences Po, Paris."
   site-url: "https://michellejord.github.io"
-  favicon: favicon.png
+  favicon: favicon.svg
   navbar:
     left:
       - href: index.qmd
