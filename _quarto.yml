@@ -16,9 +16,6 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - icon: envelope
-        href: "mailto:michellejord01@gmail.com"
-        aria-label: Email
       - icon: github
         href: "https://github.com/michellejord"
         aria-label: GitHub
