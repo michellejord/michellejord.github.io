@@ -1,6 +1,7 @@
 ---
 title: "Michelle Alicia Jordan"
 pagetitle: "Michelle Alicia Jordan"
+description-meta: "Personal website of Michelle Alicia Jordan, MRes candidate in Economics at Sciences Po, Paris."
 about:
   template: trestles
   image: profile.jpg

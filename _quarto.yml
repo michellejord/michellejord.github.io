@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Michelle Alicia Jordan"
-  description: "Personal website of Michelle Alicia Jordan, economist at Sciences Po, Paris."
+  description: "Personal website of Michelle Alicia Jordan, MRes candidate in Economics at Sciences Po, Paris."
   site-url: "https://michellejord.github.io"
   favicon: favicon.svg
   navbar:
