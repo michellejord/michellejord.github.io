@@ -6,8 +6,8 @@ A full PDF is available here: [**Download CV**](files/Jordan_CV.pdf).
 
 ## Education
 
-**Sciences Po, Paris**, *MRes in Economics* · 2024–2026 (expected) \
-Relevant coursework: PhD-level Microeconomics, Macroeconomics, Econometrics.
+**Sciences Po, Paris**, *MRes in Economics* · 2024–2026 \
+16/20 (Distinction).
 
 **Trinity College Dublin**, *B.A. (Hons.) Economics and Social Studies* · 2020–2024 \
 First Class Honours (1.1).
@@ -15,14 +15,18 @@ First Class Honours (1.1).
 ## Research experience
 
 **MRes Thesis**, Sciences Po, May 2026 \
-*Behavioural Responses to Targeted Housing Subsidies: Evidence from Ireland's Help to Buy Scheme.* Supervisor: Antoine Ferey.
+*Behavioural Responses to Targeted Housing Subsidies: Evidence from Ireland's Help to Buy Scheme.* \
+Jury: Antoine Ferey (supervisor), Pierre-Philippe Combes. \
+**Grade: 18/20.**
 
 **ESRI Working Paper (co-author)**, October 2025 \
 *An Industry-Level Measure of Quality-Adjusted Human Capital in the European Union* \
 With Juan Durán Vanegas and Iulia Siedschlag.
 
 **Undergraduate Thesis**, April 2024 \
-*The Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin's Luas Cross City Project.* Supervisor: Ronan Lyons. Grade: 1.1.
+*The Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin's Luas Cross City Project.* \
+Supervisor: Ronan Lyons. \
+**Grade: 1.1.**
 
 ## Professional experience
 
@@ -32,15 +36,16 @@ With Juan Durán Vanegas and Iulia Siedschlag.
 **Susquehanna International Group**, Dublin \
 *Equity Research Intern* · Jun 2023 to Sep 2023
 
-## Technical skills
+## Programming and software
 
-**Programming:** R (primary), Julia. \
-**Typesetting:** LaTeX. \
-**Geospatial:** ArcGIS.
+**R:** advanced (data cleaning, validation, applied econometrics). \
+**Julia:** intermediate (computational macro, dynamic programming, heterogeneous-agent models). \
+**ArcGIS:** intermediate (spatial analysis; georeferencing). \
+**LaTeX:** advanced.
 
-## Empirical methods
+## Methods
 
-Quasi-experimental identification: difference-in-differences and event-study designs, with continuous as well as binary treatment; instrumental variables and two-stage least squares; bunching estimation at policy notches. Hedonic pricing for housing markets. Dataset construction and validation, including web scraping, record linkage, and geocoding. Text as data, including optical character recognition and natural-language processing.
+Hedonic pricing; difference-in-differences and event-study designs, including continuous treatment; instrumental variables and two-stage least squares; bunching estimation at policy notches; dataset construction and validation, including web scraping, record linkage, and geocoding; text-as-data design, including optical character recognition and natural-language processing.
 
 ## Additional
 

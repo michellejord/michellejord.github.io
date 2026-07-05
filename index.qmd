@@ -1,7 +1,7 @@
 ---
 title: "Michelle Alicia Jordan"
 pagetitle: "Michelle Alicia Jordan"
-description-meta: "Personal website of Michelle Alicia Jordan, MRes candidate in Economics at Sciences Po, Paris."
+description-meta: "Personal website of Michelle Alicia Jordan, applied microeconomist."
 about:
   template: trestles
   image: profile.jpg
@@ -21,7 +21,9 @@ about:
 
 I am an applied microeconomist working in public and urban economics. My research to date has examined how housing subsidies and transport infrastructure shape behaviour and local housing markets. My current research interests include place-based policy and the role of behaviour in shaping the economic incidence of taxes and benefits.
 
-I am an MRes candidate in Economics at [Sciences Po](https://www.sciencespo.fr/ecole-recherche/en.html) and hold a B.A. (Hons.) in Economics and Social Studies from [Trinity College Dublin](https://www.tcd.ie/). In autumn 2026, I will join [CenTax](https://centax.org.uk/) in London as a Research Economist.
+I hold an MRes in Economics from [Sciences Po Paris](https://www.sciencespo.fr/ecole-recherche/en.html), and a B.A. (Hons.) in Economics and Social Studies from [Trinity College Dublin](https://www.tcd.ie/).
+
+In September 2026, I will join [CenTax](https://centax.org.uk/) in London as a Research Economist.
 
 ## Contact
 
